@@ -1,0 +1,1 @@
+nota : "las carpetas que cuenten con el prefijp (-) antes del nombre es por que no tienen energoa de band gab debido a errores en la medicion"
